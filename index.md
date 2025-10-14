@@ -4,19 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm currently a fifth-year Ph.D student advised by Prof. Ya-Qin Zhang at the Institute for AI Industry Research(AIR) & Department of Computer Science and Technology, Tsinghua University. Previously, I obtained my Bachelor's degree from Tsinghua University. My research interests span the areas of computer vision and graphics, especially inverse rendering, 3D scene understanding, and 3D AIGC.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Computer Vision:** 3D AIGC, 3D scene understanding, inverse rendering
 
 {% include_relative _includes/publications.md %}
 
