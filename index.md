@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm currently a fifth-year Ph.D student advised by Prof. Ya-Qin Zhang at the Institute for AI Industry Research(AIR) & Department of Computer Science and Technology, Tsinghua University. Previously, I obtained my Bachelor's degree from Tsinghua University. My research interests span the areas of computer vision and graphics, especially inverse rendering, 3D scene understanding, and 3D AIGC.
+I am currently a fifth-year Ph.D. student advised by Prof. Ya-Qin Zhang at the Institute for AI Industry Research (AIR) and the Department of Computer Science and Technology, Tsinghua University. I previously obtained my Bachelor's degree from Tsinghua University. My research interests span computer vision and graphics, with a particular focus on inverse rendering, 3D scene understanding, and 3D AIGC. I am actively seeking postdoctoral opportunities starting in Fall 2026.
 
 ## Research Interests
 
