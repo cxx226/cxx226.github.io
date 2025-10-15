@@ -12,30 +12,27 @@ I am currently a fifth-year Ph.D. student advised by Prof. Ya-Qin Zhang at the I
 
 ## Education
 
-**Tsinghua University**, Beijing, China  
+**Tsinghua University**, Department of Computer Science and Technology & Institute for AI Industry Research (AIR) 
 *Ph.D. Student* | Sep. 2021 – Present  
 Advisors: [Hao Zhao](https://sites.google.com/view/fromandto) & [Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm)  
-- Department of Computer Science and Technology & Institute for AI Industry Research (AIR)
 
-**University of Illinois Urbana-Champaign**, Urbana, IL, USA  
+**University of Illinois Urbana-Champaign**, Computer Vision Group  
 *Visiting Scholar* | Sep. 2024 – Mar. 2025  
 Advisors: [Shenlong Wang](https://shenlong.web.illinois.edu/) & [David Forsyth](http://luthuli.cs.uiuc.edu/~daf/)  
-- Department of Computer Science & Computer Vision Group
 
-**Tsinghua University**, Beijing, China  
+**Tsinghua University**, Department of Computer Science and Technology  
 *Bachelor* | Sep. 2017 – Jun. 2021  
-- Department of Computer Science and Technology  
 
 
 ## Employment
 
-**Microsoft Research Asia (MSRA)**, Beijing, China  
+**Microsoft Research Asia (MSRA)** 
 *Internship – Spatial Intelligence Group* | Jul. 2025 – Present  
 
-**Xiaomi**, Beijing, China  
+**Xiaomi**  
 *Internship – Autonomous Driving Department, World Model Group* | Apr. 2025 – Jul. 2025  
 
-**Tencent**, Shenzhen, China  
+**Tencent** 
 *Internship – Corporate Development Group (CDG)* | Jun. 2020 – Sep. 2020  
 
 
